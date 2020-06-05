@@ -1,0 +1,1 @@
+SELECT * FROM farma_dmart_ped.dproducto;
